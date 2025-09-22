@@ -4,7 +4,7 @@ A tool that allows for filtering of rows in multiple tables.
 
 Logic exists (but is barely available through the UI) for first-order logic on value and row filters.
 
-I ran out of time while implementing the UI, so I bought Claude Pro.
+I ran out of time while implementing the UI, so I bought Claude Pro to do the UI.
 It did a pretty poor job. 5/10 - would not buy again.
 
 Everything in the lib folder is written entirely by me.
